@@ -14,26 +14,12 @@
 
 | Metric | Result |
 |---|---:|
-| Total Test Cases | 33 |
-| PASS | 31 |
+| Total Test Cases | 29 |
+| PASS | 27 |
 | FAIL | 2 |
 | BLOCKED | 0 |
-| Pass Rate | 93.94% |
+| Pass Rate | 97.22% |
 | Total Bugs | 2 |
-
----
-
-## Portfolio Contents
-
-| Document | Description |
-|---|---|
-| [Test Planning](01-Test-Planning/TestPlan.md) | Tujuan, scope, dan strategi pengujian |
-| [Test Scenario](02-Test-Scenario/TestScenario.md) | Skenario pengujian yang dilakukan |
-| [Test Case](03-Test-Case/TestCase.md) | Detail test case dan test data |
-| [Test Execution](04-Test-Execution/TestExecution.md) | Hasil eksekusi pengujian |
-| [Bug Report](05-Bug-Report/) | Dokumentasi defect yang ditemukan |
-
-
 
 ---
 
@@ -48,6 +34,7 @@
 
 ## Tools
 
+- Playwright
 - Google Chrome
 - GitHub
 
