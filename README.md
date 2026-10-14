@@ -50,5 +50,4 @@ npm test
 npm run report
 ```
 
-Penjelasan lengkap ada di [Automation/README.md](Automation/README.md).
 
